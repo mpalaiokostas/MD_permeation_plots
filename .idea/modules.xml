@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MD_permeation_plots.iml" filepath="$PROJECT_DIR$/.idea/MD_permeation_plots.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/all_results_in_a_figure.iml" filepath="$PROJECT_DIR$/.idea/all_results_in_a_figure.iml" />
     </modules>
   </component>
 </project>
