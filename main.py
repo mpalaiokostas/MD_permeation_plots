@@ -8,8 +8,6 @@ import pandas as pd
 from classes.data_munging import SummaryFile, MoleculesFile
 from classes.plotting_matplotlib import GridPlot, LogPlot
 
-# USER INPUT ##################################################################
-
 
 # FUNCTIONS ###################################################################
 def plot_grid_figure():
