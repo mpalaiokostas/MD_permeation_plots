@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Dec  7 13:08:17 2017
-
-@author: exw616
+@author: Michalis Palaiokostas
 """
 
 import os
