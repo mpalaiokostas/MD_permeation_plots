@@ -2,12 +2,8 @@
 
 ## Publication-quality figure-generation script for results produced from molecular dynamics simulations of molecules permeating through a biological membrane
 
-----
-
 ### What does it do?
 *To write*
-
-----
 
 ### Instructions to execute the script
 
@@ -25,7 +21,7 @@ figures will be produced. The folder should the following:
    - *Add the folder structure*
 
 3. **Load the virtual environment** that is required for the script to run.
-   1. In Windows (Powershell):
+   - In Windows (Powershell):
       1. Open Powershell
       2. Enable ps1 scripts by changing the execution policy. Simply type:
          ```shell
@@ -37,10 +33,10 @@ figures will be produced. The folder should the following:
          ```
       4. Powershell command line should now show (venv) before the prompt.
    
-   2. In GNU/linux (Bash):
+   - In GNU/linux (Bash):
       *To write*
 
-   3. In MacOS (Bash):
+   - In MacOS (Bash):
       *To write*
 
 4. Execute the script by typing:
